@@ -1,4 +1,4 @@
-# Kingdom of Heaven: A-Narrative-TPS-Medieval-Game-Template
+# Kingdom of Heaven
 
 A historical third-person shooter (TPS) game prototype with a storyline. In this gameplay, set during the war years in the 12th century, our main character is an individual attempting to survive by guarding caravans in the desert.
 
